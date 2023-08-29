@@ -1,0 +1,47 @@
+<?xml version="1.0"?>
+<root>
+    <organizations>
+        <organization ogrn="3485707494610">
+            <orgname>Компания Гриль</orgname>
+            <address index="985086">
+                <city>Москва</city>
+                <street>Багрицкого, улица</street>
+            </address>
+        </organization>
+        <organization ogrn="4278854456353">
+            <orgname>Арт Гриль</orgname>
+            <address index="828945">
+                <city>Москва</city>
+                <street>Бабьегородский 1-й, переулок</street>
+            </address>
+        </organization>
+        <organization ogrn="7250545135597">
+            <orgname>Арт М</orgname>
+            <address index="516636">
+                <city>Москва</city>
+                <street>Баженова, улица</street>
+            </address>
+        </organization>
+        <organization ogrn="6586918909058">
+            <orgname>Гриль Ко</orgname>
+            <address index="594473">
+                <city>Москва</city>
+                <street>Багратион, мост</street>
+            </address>
+        </organization>
+        <organization ogrn="8056299222995">
+            <orgname>Гриль Арт</orgname>
+            <address index="537401">
+                <city>Москва</city>
+                <street>Багратионовский проезд</street>
+            </address>
+        </organization>
+        <organization ogrn="6588413021021">
+            <orgname>Ко Бо</orgname>
+            <address index="521944">
+                <city>Москва</city>
+                <street>Бабьегородский 1-й, переулок</street>
+            </address>
+        </organization>
+    </organizations>
+</root>
